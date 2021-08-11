@@ -1,5 +1,5 @@
 ---
-title: Guoquan Huang - Univ. of Delaware
+title: "Guoquan Huang - Univ. of Delaware"
 use_math: true
 ---
 
@@ -13,6 +13,11 @@ use_math: true
   * CP의 장점은 최소차수로 평면을 표현, additive 오차 모델에 용이
   * 즉, 아래의 비선형 최적화 문제를 푸는것 :
 
+  $$
+  x=1
+  $$
+
+  
   $$
   \hat{\mathbf{x}} = \mathrm{argmin} \sum_i \left|| \mathbf{r}_{I_i}(\mathbf{x}) \right||^2_{\mathbf{R}_{I_i}} + \sum_j \left|| \mathbf{r}_{\Pi_j}(\mathbf{x}) \right||^2_{\mathbf{R}_{\Pi_i}}
   $$
@@ -37,6 +42,8 @@ use_math: true
 * 실험에서 짝관계는 측정된 CP와 기존의 CP의 마할라노비스 거리를 통해 구했다고함
   * 미리 정해진 갯수의 평면이 관측된다고 가정한듯.
   * 아래의 그림과 같이 **좁은 영역에서 평면 피팅이 잘되는 환경**을 세팅하여 실험을 수행함
+
+
 
 
 
@@ -75,6 +82,8 @@ use_math: true
 
 
 
+
+
 ## [RAL 2019] Visual-Inertial Localization WIth Prior LiDAR Map Constraints
 
 * 이미 만들어진 LiDAR 맵을 이용하여 MSCKF기반의 스테레오 카메라 VIO의 위치 오차를 bound 한다. 특히, 기하학적 정보를 가진 LiDAR 맵과 밝기 정보를 가진 카메라를 융합하기 위해서 semi-dense 맵을 작성하고 이를 맵과 매칭함	
@@ -94,6 +103,8 @@ $$
   * NDT에서는 점구름을 가우시안 분포라고 가정하여 두 점구름 집합간의 pdf의 차이를 최소화하는 기법임.
   * ICP 같이 각 점을 매칭하는 방법에 비해 샘플들의 uneveness에도 강건하다는 장점이 있음.
   * 즉, LiDAR 맵 (템플릿)과 비전의 맵 (소스)의 가우시안 분포를 피팅하는 상대포즈를 구하는것이 목적 
+
+
 
 
 
@@ -125,6 +136,8 @@ $$
   * Schmidt-KF : $K_S=0$ 이라서 위의 복잡도는 사라지고, 다음으로 강한 복잡도는 공분산 측정치 업데이트에서 $L_A S^{-1} L^T_S$이고 이것의 복잡도는 $O(amn+m^2n)$ 이 되고, 최종적으로 키프레임 스테이트에 대한 복잡도는 $O(n)$ 이 된다. 여기서 a는 active 상태변수의 차원임.
 
 * **Idea) 키프레임에서 특징점 트랙을 추가하는 방법은 키프레임 정보를 다 이용한다고 보기는 힘들거 같음. pose-graph 최적화의 출력값을 필터 업데이트 측정치로 활용하는건 어떨까**
+
+
 
 
 
