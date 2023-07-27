@@ -32,3 +32,15 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Park":
+  - firstname: ["Chan Gook"]
+    url: https://scholar.google.com/citations?user=9gwkQ7AAAAAJ&hl=en&oi=sra
+
+"Choe":
+  - firstname: ["Yeongkwon"]
+    url: https://scholar.google.com/citations?user=_3F7tWgAAAAJ&hl=en
+
+"Heo":
+  - firstname: ["Sejong"]
+    url: https://scholar.google.com/citations?user=ju_SrlcAAAAJ&hl=en
