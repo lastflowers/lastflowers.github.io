@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-8-29
+date: 2023-5-30
 inline: true
 related_posts: false
 ---
 
-The end of long journey -- I've got Ph.D. 😁
+Oral presentation in a SLAM session at ICRA 2023, the video can be found [here](https://youtu.be/dIiJBePREVE)!
