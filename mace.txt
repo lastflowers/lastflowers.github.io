@@ -6,4 +6,4 @@ Install Jupyter notebook via homebrew : brew install jupyter
 1. source edit
 2. bundle exec jekyll serve & Check in local
 3. git commit & push 
-4. bin/deploy --user 
+4. bin/deploy --user    
