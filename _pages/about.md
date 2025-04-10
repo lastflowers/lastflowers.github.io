@@ -20,9 +20,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a postdoc at [Smart Robotics Lab](https://srl.cit.tum.de/home), Technical University of Munich, Germany. My research interest includes navigation systems for autonomous robots with onboard sensors.
+I am a postdoc at the [Smart Robotics Lab](https://srl.cit.tum.de/home), Technical University of Munich, Germany. My research background is state estimation for robotics.
 
-Most of my work is based on Bayesian filtering that fuses measurements from an inertial measurement unit, cameras, and LiDAR. My goal is to build smarter and safer robots in real-world by developing a practical and robust navigation algorithm from a thorough theoretical background.
+I have a strong interest in mobile robotics, particularly in the fields of Spatial AI and autonomous exploration. My goal is to build smarter and safer robots for real-world applications by developing practical and robust software and algorithms grounded in strong theoretical foundations.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
