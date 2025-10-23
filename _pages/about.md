@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Smart Robotics Lab, Technical University of Munich
+subtitle: Mobile Robotics Lab, Technical University of Munich
 
 profile:
   align: right
@@ -20,9 +20,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a postdoc at the [Smart Robotics Lab](https://srl.cit.tum.de/home), Technical University of Munich, Germany. My research background is state estimation for robotics.
+Hi! I'm a postdoc at the [Mobile Robotics Lab](https://mrl.ethz.ch), Technical University of Munich, and also an academic guest at ETH Zurich in the same Lab. My research background is in state estimation and machine learning for robotics.
 
-I have a strong interest in mobile robotics, particularly in the fields of Spatial AI and autonomous exploration. My goal is to build smarter and safer robots for real-world applications by developing practical and robust software and algorithms grounded in strong theoretical foundations.
+I've been working on robot perception since my PhD, where I focused mainly on visual-inertial simultaneous localization and mapping with proper state uncertainty estimation. Now, I'm especially interested in real-world robots functioning outside the lab, powered by robust and theoretically grounded software stacks. My vision is to build safer and smarter robots for real-world applications (including space exploration robots!) based on theoretical foundations.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
