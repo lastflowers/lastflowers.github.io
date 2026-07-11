@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Mobile Robotics Lab, Technical University of Munich
+subtitle: Institute of Robotics and Mechatronics, DLR
 
 profile:
   align: right
@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a postdoc at the [Mobile Robotics Lab](https://mrl.ethz.ch), Technical University of Munich, and also an academic guest at ETH Zurich in the same Lab. My research background is in state estimation and machine learning for robotics.
+Hi! I'm a research scientist at the [Institute of Robotics and Mechatronics](https://www.dlr.de/en/rm), German Aerospace Center (DLR). My research background is in state estimation and machine learning for robotics.
 
 I've been working on robot perception since my PhD, where I focused mainly on visual-inertial simultaneous localization and mapping with proper state uncertainty estimation. Now, I'm especially interested in real-world robots functioning outside the lab, powered by robust and theoretically grounded software stacks. My vision is to build safer and smarter robots for real-world applications (including space exploration robots!) based on theoretical foundations.
 
